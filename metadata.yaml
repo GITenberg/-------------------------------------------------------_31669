@@ -1,0 +1,43 @@
+_repo: '-------------------------------------------------------_31669'
+_version: 0.1.0
+alternative_title: 'Iliad Rhapsody A: Translated in dimotiki in verse'
+contributor:
+  translator:
+    agent_name: Christopoulos, Athanasios
+    aliases:
+    - Khristopoulos, Ath.
+    - Chrestopoulos, Athanasios
+    - Χριστόπουλος, Αθανάσιος
+    birthdate: 1771
+    deathdate: 1847
+    gutenberg_agent_id: '35393'
+    url: http://www.gutenberg.org/2009/agents/35393
+    wikipedia: http://en.wikipedia.org/wiki/Athanasios_Christopoulos
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Homer
+    alias: Όμηρος
+    birthdate: -750
+    deathdate: -650
+    gutenberg_agent_id: '705'
+    url: http://www.gutenberg.org/2009/agents/705
+    wikipedia: http://en.wikipedia.org/wiki/Homer
+description: ''
+gutenberg_issued: '2010-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31669'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Trojan War -- Poetry'
+- !lcsh 'Epic poetry, Greek -- Translations into Modern Greek'
+- !lcc 'PA'
+- !lcsh 'Achilles (Mythological character) -- Poetry'
+title: 'Ιλιάδος Ραψωδία Α: Μεταφρασθείσα εις δημοτικούς στίχους'
+url: http://www.gutenberg.org/ebooks/31669
